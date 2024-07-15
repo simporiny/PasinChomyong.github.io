@@ -2894,6 +2894,7 @@ input, select, textarea {
 		padding: 0;
 		list-style: none;
 		cursor: default;
+		flex-direction: column;
 	}
 
 		.statistics li {
